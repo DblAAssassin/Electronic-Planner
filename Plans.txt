@@ -1,0 +1,8 @@
+Objective
+To experience a project from beginning to end and deepen our understanding of collaborative code projects, Java, and computer science as a whole.
+
+Features
+-Tell you the day
+-Add tasks on certain days
+-Month View and if click on certain day you go to day view
+
